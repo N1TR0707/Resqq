@@ -4,7 +4,7 @@ Selamat datang di proyek PEMSIK_LONGSOR ! Repositori ini berisi komponen backend
 
 ## 📦 Daftar Isi
 - [Memulai](#memulai)
-- [Pengaturan Backend]([Pengaturan Backend])
+- [Pengaturan Backend](#Pengaturan-Backend)
 - [Pengaturan Frontend](#pengaturan-frontend)
 
 ## 🚀 Memulai
