@@ -4,7 +4,7 @@ Selamat datang di proyek PEMSIK_LONGSOR ! Repositori ini berisi komponen backend
 
 ## 📦 Daftar Isi
 - [Memulai](#memulai)
-- [Pengaturan Backend](#pengaturan-backend)
+- [Pengaturan Backend]([#pengaturan-backend](https://github.com/N1TR0707/Resqq/tree/main/ResQ-be))
 - [Pengaturan Frontend](#pengaturan-frontend)
 
 ## 🚀 Memulai
