@@ -1,6 +1,6 @@
-# 🌟 Proyek UAS-PEMSIK_TANAH_LONGSSOR
+# 🌟 Proyek PEMSIK_TANAH_LONGSSOR
 
-Selamat datang di proyek UAS-PEMSIK_LONGSOR ! Repositori ini berisi komponen backend dan frontend dari aplikasi. Ikuti instruksi di bawah ini untuk memulai.
+Selamat datang di proyek PEMSIK_LONGSOR ! Repositori ini berisi komponen backend dan frontend dari aplikasi. Ikuti instruksi di bawah ini untuk memulai.
 
 ## 📦 Daftar Isi
 - [Memulai](#memulai)
